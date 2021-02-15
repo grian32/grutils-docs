@@ -1,0 +1,6 @@
+[book]
+authors = ["Grian"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Grutils Documentation"
